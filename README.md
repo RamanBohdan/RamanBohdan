@@ -3,10 +3,14 @@
 <h3 align="center">my specialization is Java Test Automation Engineer</h3>
 
 - 👋 Hi, I’m @RamanBohdan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in UI and API testing and everything connected with it. 
+      I love an active lifestyle. My hobby is football.
+- 🌱 I have now completed my studies in the specialty Java Test Automation Engineer.
+- 💞️ I’m looking to collaborate on a permanent basis.
+- 📫 You can contact me:
+       <h1 align="center">Email:<a href="bohdanraman@gmail.com" target="_blank">Raman Bohdan</a> 
+       <h1 align="center">Linkedin:<a href="https://www.linkedin.com/in/raman-bohdan-985546241/" target="_blank">Raman Bohdan</a> 
+        <h1 align="center">Telegram:<a href="@RamanBohdan" target="_blank">Raman Bohdan</a> 
 
 <!---
 RamanBohdan/RamanBohdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
