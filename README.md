@@ -17,6 +17,14 @@
 <img src="https://user-images.githubusercontent.com/90693895/174265331-3f4e8acf-8813-449e-a40a-622e4adb281e.svg" height="100"/></h1>
       <img src="![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)" height="100"/></h1>
 
+
+### 📋 Languages
+
+| Name          | Badge                                                                                                                            | Markdown                                                                                                                           |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+
+| Java          | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)                           | `![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)`                           |
+
 <!---
 RamanBohdan/RamanBohdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
