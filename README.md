@@ -13,8 +13,8 @@
         <h1 align="center">Telegram:   @RamanBohdan (+375291423087)</a> 
 
     
-<h1 align="center">skills
-<img src="https://user-images.githubusercontent.com/90693895/174265331-3f4e8acf-8813-449e-a40a-622e4adb281e.svg" height="64"/></h1>
+<h1 align="center">My skills:
+<img src="https://user-images.githubusercontent.com/90693895/174265331-3f4e8acf-8813-449e-a40a-622e4adb281e.svg" height="100"/></h1>
 <!---
 RamanBohdan/RamanBohdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
