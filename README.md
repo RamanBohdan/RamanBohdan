@@ -12,6 +12,7 @@
        <h1 align="center">Linkedin:<a href="https://www.linkedin.com/in/raman-bohdan-985546241/" target="_blank">Raman Bohdan</a> 
         <h1 align="center">Telegram:   @RamanBohdan (+375291423087)</a> 
 
+      #43B02A
 <!---
 RamanBohdan/RamanBohdan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
