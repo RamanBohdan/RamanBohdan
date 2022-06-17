@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/raman-bohdan-985546241/" target="_blank">Raman Bohdan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">my specialization is Java Test Automation Engineer</h3>
-<h3 align="center">([![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=my+specialization+is+Java+Test+Automation+Engineer)](https://git.io/typing-svg)</h3>
-
 
 - 👋 Hi, I’m @RamanBohdan
 - 👀 I’m interested in UI and API testing and everything connected with it. 
