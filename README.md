@@ -7,9 +7,7 @@
       I love an active lifestyle. My hobby is football.
 - 🌱 I have now completed my studies in the specialty Java Test Automation Engineer.
 - 💞️ I’m looking to collaborate on a permanent basis.
-
-Contact
-📫 You can contact me:
+- 📫 You can contact me:
        <h1 align="center">Email:   bohdanraman@gmail.com</a> 
        <h1 align="center">Linkedin:<a href="https://www.linkedin.com/in/raman-bohdan-985546241/" target="_blank">Raman Bohdan</a> 
         <h1 align="center">Telegram:   @RamanBohdan (+375291423087)</a> 
