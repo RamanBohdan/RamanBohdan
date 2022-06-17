@@ -8,7 +8,7 @@
 - 🌱 I have now completed my studies in the specialty Java Test Automation Engineer.
 - 💞️ I’m looking to collaborate on a permanent basis.
 - 📫 You can contact me:
-       <h1 align="center">Email:<a href="bohdanraman@gmail.com" target="_blank">ohdanraman@gmail.com</a> 
+       <h1 align="center">Email:<a href="bohdanraman@gmail.com" target="_blank">lohdanraman@gmail.com</a> 
        <h1 align="center">Linkedin:<a href="https://www.linkedin.com/in/raman-bohdan-985546241/" target="_blank">Raman Bohdan</a> 
         <h1 align="center">Telegram:<a href="@RamanBohdan" target="_blank">@RamanBohdan</a> 
 
